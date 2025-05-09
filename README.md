@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tianlongbaobao
-- 💞️ I’m looking to collaborate on HarmonyOS development
+- 💞️ I’m looking to collaborate on HarmonyOS
 - 📫 How to reach me luzhiyi@mail.dlut.edu.cn
 
 
